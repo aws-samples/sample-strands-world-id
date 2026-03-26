@@ -1,0 +1,7 @@
+// Runtime configuration - generated at build time
+window.APP_CONFIG = {
+  API_URL: "${API_URL}",
+  WORLD_ID_APP_ID: "${WORLD_ID_APP_ID}",
+  WORLD_ID_ACTION: "${WORLD_ID_ACTION}",
+  WORLD_ID_RP_ID: "${WORLD_ID_RP_ID}"
+};

@@ -1,0 +1,11 @@
+{
+  "name": "anycompany-scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "seed": "node seed-products.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.650.0",
+    "@aws-sdk/lib-dynamodb": "^3.650.0"
+  }
+}
