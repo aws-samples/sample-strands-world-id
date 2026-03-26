@@ -1,6 +1,6 @@
 # AnyCompany Agent
 
-A conversational AI shopping assistant for building custom PCs, powered by Amazon Bedrock AgentCore and the Strands SDK. Customers chat with an AI agent that helps them choose compatible parts within their budget, manages a shopping cart, and completes checkout with [World ID](https://worldcoin.org/world-id) proof-of-human verification.
+A conversational AI shopping assistant for building custom PCs, powered by Amazon Bedrock AgentCore and the Strands SDK. Customers chat with an AI agent that helps them choose compatible parts within their budget, manages a shopping cart, and completes checkout with [World ID](https://world.org/world-id) proof-of-human verification.
 
 ## Architecture
 
@@ -177,7 +177,7 @@ Browser                   AgentCore        World ID v4 API   DynamoDB
 
 ### 1. Create a World ID App
 
-1. Go to the [Worldcoin Developer Portal](https://developer.worldcoin.org/)
+1. Go to the [World Developer Portal](https://developer.world.org/)
 2. Sign in and create a new app
 3. Enable World ID 4.0 for the app
 4. Note the **App ID** (`app_...`) and **RP ID** (`rp_...`)
